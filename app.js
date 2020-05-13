@@ -63,7 +63,7 @@ let rateValue = euroRate * dollarsSum;
 alert("You will get " + rateValue + " Euros");
 // End of 6 Task
 
-// 7 Task
+
 let oneProject = 820;
 let gbFlashDriver = prompt('how many GB in your Flash Driver?');
 gbFlashDriver = parseInt(gbFlashDriver);
