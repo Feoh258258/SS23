@@ -2,7 +2,7 @@ const currencyYear = 2020;
 const euroRate = 1.09;
 
 // 1 Task
-let name = prompt('What is your name?');
+let name = prompt('Task2');
 alert(`Hello, ${name}!`);
 // end of 1 Task
 
